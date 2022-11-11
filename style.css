@@ -3,7 +3,7 @@
 }
 
 .banner{
-    background-image: url('../../assets/Thur.svg');
+    background-image: url('../assets/Thur.svg');
     opacity: 90%;
     background-position: center;
 }
